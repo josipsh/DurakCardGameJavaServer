@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="DurakCardGameJavaServer">
+    <output-path>$PROJECT_DIR$/out/artifacts/DurakCardGameJavaServer</output-path>
+    <root id="root">
+      <element id="module-output" name="DurakCardGameJavaServer" />
+    </root>
+  </artifact>
+</component>

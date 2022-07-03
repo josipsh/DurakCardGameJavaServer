@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DurakCardGameJavaServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DurakCardGameJavaServer_jar</output-path>
+    <root id="archive" name="DurakCardGameJavaServer.jar">
+      <element id="artifact" artifact-name="DurakCardGameJavaServer" />
+    </root>
+  </artifact>
+</component>
